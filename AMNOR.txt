@@ -1,0 +1,26 @@
+AMNOR
+VGS Atoms, VGS
+QB, Kyler Murray, 21, 2016,99,99,99,99,99,99,,$1,000,000,6 years
+RB, Max Max, 21, 2016, 99,99,99,99,99,99,$1,000,000,6 years
+RB, Joey Hyper, 21, 2016, 99,99,99,99,99,99,,$1,000,000,6 years
+WR, John Doe, 21, 2016, 99,99,99,99,99,99, $1,000,000, 6 years
+WR, John Smith I,21, 2016, 99,99,99,99,99,99, $1,000,000, 6 years
+WR, John Smith II, 21, 2016,99,99,99,99,99,99, $1,000,000,6 years
+OL, John Smith III, 21, 2016,99,99,99,99,99,99, $1,000,000, 6 years
+OL, John Smith IV, 21, 2016,99,99,99,99,99,99, $1,000,000, 6 years
+OL, John Smith V, 21, 2016,99,99,99,99,99,99, $1,000,000, 6 years
+OL, John Smith VI, 21, 2016,99,99,99,99,99,99, $1,000,000, 6 years
+OL, John Smith VII, 21, 2016,99,99,99,99,99,99, $1,000,000, 6 years
+K, John Smith VIII,21, 2016,99,99,99,99,99,99, $1,000,000, 6 years
+S, John Smith IX,21, 2016,99,99,99,99,99,99, $1,000,000, 6 years
+CB, John Smith X,21, 2016,99,99,99,99,99,99, $1,000,000, 6 years
+CB, John Smith XI,21, 2016,99,99,99,99,99,99, $1,000,000, 6 years
+CB, John Smith XII,21, 2016,99,99,99,99,99,99, $1,000,000, 6 years
+DL, John Smith XIII,21, 2016,99,99,99,99,99,99, $1,000,000, 6 years
+DL, John Smith XIV,21, 2016,99,99,99,99,99,99, $1,000,000, 6 years
+DL, John Smith XV,21, 2016,99,99,99,99,99,99, $1,000,000, 6 years
+DL, John Smith XVI,21, 2016,99,99,99,99,99,99, $1,000,000, 6 years
+LB,John Smith XVII,21, 2016,99,99,99,99,99,99, $1,000,000, 6 years
+LB,John Smith XVIII,21, 2016,99,99,99,99,99,99, $1,000,000, 6 years
+LB,John Smith XIX,21, 2016,99,99,99,99,99,99, $1,000,000, 6 years
+END_PLAYERS
